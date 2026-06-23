@@ -1,0 +1,5 @@
+Laptop Asus;8500000.0;5
+Mouse Wireless;150000.0;20
+Keyboard Mekanik;450000.0;12
+Smartphone Samsung;3500000.0;8
+Headset Gaming;600000.0;15
